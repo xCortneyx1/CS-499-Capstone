@@ -39,8 +39,8 @@ This portfolio represents the integration of those competencies into a cohesive,
 
 The following video provides an informal walkthrough of the original Smart Thermostat artifact prior to enhancement. It explains the system’s architecture, identifies areas for improvement, and outlines how each enhancement aligns with Computer Science program outcomes.
 
-**Code Review Video:**  
-
+▶️ **Code Review Video:**  
+[Watch Here](https://youtu.be/1fZYCvDJuiw)
 
 ---
 
@@ -61,14 +61,8 @@ The Smart Thermostat system was enhanced across three major categories to demons
 
 These enhancements improved maintainability, clarity, extensibility, and production-level reliability.
 
-### Original Artifact
-
-
-### Enhanced Artifact
-
-
-### Narrative
-
+  **View Software Engineering Files:**  
+[View Software Engineering Files](artifacts/software-engineering)
 
 ---
 
@@ -83,14 +77,8 @@ These enhancements improved maintainability, clarity, extensibility, and product
 
 This enhancement strengthened algorithm reliability and demonstrated structured problem-solving within a state-based embedded system.
 
-### Original Artifact
-
-
-### Enhanced Artifact
-
-
-### Narrative
-
+  **View Algorithms Files:**  
+[View Algorithms Files](artifacts/algorithms)
 
 ---
 
@@ -105,14 +93,8 @@ This enhancement strengthened algorithm reliability and demonstrated structured 
 
 This enhancement transformed the thermostat from a transient in-memory system into a more realistic application capable of retaining and managing structured data securely.
 
-### Original Artifact
-
-
-### Enhanced Artifact
-
-
-### Narrative
-
+  **View Database Files:**  
+[View Database Files](artifacts/databases)
 
 ---
 
@@ -131,12 +113,8 @@ This enhancement transformed the thermostat from a transient in-memory system in
 
 # Computer Science Program Outcomes Demonstrated
 
-This portfolio demonstrates achievement of the following program outcomes:
-
 ✔ Collaborative communication through structured code review  
 ✔ Professional written and visual technical communication  
 ✔ Algorithmic problem solving and evaluation of trade-offs  
 ✔ Application of industry-standard tools and engineering practices  
 ✔ Development of a security mindset to ensure data integrity and system reliability  
-
----
