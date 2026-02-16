@@ -14,24 +14,9 @@ This ePortfolio reflects my technical growth, design decision-making ability, se
 
 # Professional Self-Assessment
 
-Throughout the Computer Science program, I developed strong foundations in software engineering principles, algorithmic problem solving, database integration, and secure coding practices. Each course contributed to my understanding of how individual components of computing work together to form complete, reliable systems.
+My complete professional self-assessment reflecting my academic journey, technical growth, collaboration experience, and security mindset can be viewed below:
 
-Collaboration has been a central theme of my academic experience. Through peer discussions, code reviews, and structured feedback cycles, I strengthened my ability to communicate technical ideas clearly and adapt explanations to different audiences. Producing an informal code review for this capstone further refined my ability to present technical evaluations in a professional and accessible way.
-
-From a technical perspective, I strengthened my skills in:
-
-- Modular software design and refactoring  
-- Finite state machine implementation  
-- Algorithm optimization and validation  
-- Database modeling and persistent storage integration  
-- Defensive programming and error handling  
-- Structured documentation and professional communication  
-
-In particular, enhancing the Smart Thermostat artifact across three categories allowed me to revisit a working system and improve it using industry-level expectations for maintainability, efficiency, and reliability.
-
-Security awareness became increasingly important throughout the program. I incorporated input validation, safe boundary enforcement, structured configuration management, and controlled data storage practices to mitigate potential system failures and data corruption risks. Developing this security mindset ensures that I approach future software design with reliability and resilience in mind.
-
-This portfolio represents the integration of those competencies into a cohesive, professional body of work that demonstrates readiness to enter the software development field.
+[View Full Professional Self-Assessment](professional-self-assessment)
 
 ---
 
