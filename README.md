@@ -47,7 +47,8 @@ The Smart Thermostat system was enhanced across three major categories to demons
 These enhancements improved maintainability, clarity, extensibility, and production-level reliability.
 
   **View Software Engineering Files:**  
-[View Software Engineering Files](artifacts/software-engineering)
+  
+[View Software Engineering Files](https://github.com/xCortneyx1/CS-499-Capstone/tree/main/artifacts/software-engineering)
 
 ---
 
@@ -63,7 +64,7 @@ These enhancements improved maintainability, clarity, extensibility, and product
 This enhancement strengthened algorithm reliability and demonstrated structured problem-solving within a state-based embedded system.
 
   **View Algorithms Files:**  
-[View Algorithms Files](artifacts/algorithms)
+[View Algorithms Files](https://github.com/xCortneyx1/CS-499-Capstone/tree/main/artifacts/algorithms)
 
 ---
 
@@ -79,7 +80,8 @@ This enhancement strengthened algorithm reliability and demonstrated structured 
 This enhancement transformed the thermostat from a transient in-memory system into a more realistic application capable of retaining and managing structured data securely.
 
   **View Database Files:**  
-[View Database Files](artifacts/databases)
+[View Database Files](https://github.com/xCortneyx1/CS-499-Capstone/tree/main/artifacts/databases)
+
 
 ---
 
